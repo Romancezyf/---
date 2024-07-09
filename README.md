@@ -1,5 +1,4 @@
-# ---
-国科大联培项目-zcy、lpr、zyf组
+# 国科大联培项目-zcy、lpr、zyf组，基于边缘智能的人脸识别算法
 
 ## Running Environment
 The implementation of **Face Recognition** is mainly based on Python 3.7.16 and [PyTorch](https://pytorch.org/) 1.12.1. To install all required dependencies:
