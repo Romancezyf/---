@@ -13,3 +13,8 @@ To run, enter in CMD
 python app.py
 ```
 ## Step-2
+ZYF completed packaging the project and uploading it to Docker. The specific operation commands are as follows:
+```
+docker build -t flask_pytorch .
+docker run -it flask_pytorch
+```
